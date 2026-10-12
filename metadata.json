@@ -1,0 +1,6 @@
+{
+  "name": "AlgoVerse",
+  "description": "Interactive Analysis & Design of Algorithms learning platform with interactive visualization topics, custom inputs, predict mode, and mastery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
